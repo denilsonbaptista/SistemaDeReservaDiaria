@@ -12,10 +12,10 @@ Para o sistema de reserva, o mesmo deverá registrar a quantidade de diárias, a
 
 ### Principais Regras
 
-1 - A reserva não pode alocar mais hóspedes do que a capacidade da suíte.<br>
-2 - Bebês até 2 anos não contam na capacidade da suíte.<br>
-3 - Para o cálculo da diária, multiplique o valor da diária da suíte pela quantidade de diárias solicitadas.<br>
-4 - Para um reserva com mais de 7 dias, deverá ser concedido um desconto de 10%<br>
+1 - A reserva não pode alocar mais hóspedes do que a capacidade da suíte.  
+2 - Bebês até 2 anos não contam na capacidade da suíte.  
+3 - Para o cálculo da diária, multiplique o valor da diária da suíte pela quantidade de diárias solicitadas.  
+4 - Para um reserva com mais de 7 dias, deverá ser concedido um desconto de 10%  
 5 - Aplique os conceitos da orientação à objetos visto na disciplina, os métodos de negócio devem estar na sua classe pertencente.
 
 ![Screenshot 2021-12-19 212355](https://user-images.githubusercontent.com/50973247/146696289-d25b40ad-f80b-4e64-af5e-8e4ed1fef045.png)
